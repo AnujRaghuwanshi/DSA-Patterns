@@ -1,5 +1,5 @@
 # 🚀 DSA-Patterns
-![Patterns]([https://img.shields.io/github/stars/your-username/repo](https://www.linkedin.com/posts/mr-sharukh03_dsa-codinginterview-programming-activity-7329908844078292993-2IWQ))
+![Patterns](https://media.licdn.com/dms/image/v2/D5622AQEX-vsqJVZYGA/feedshare-shrink_800/B56ZbkRPJ0GoAk-/0/1747586449818?e=2147483647&v=beta&t=vYgvdqCxsbXTjyM6m4tb6dVLDDO32ywANUUxFkU3k9k)
 
 ![GitHub stars](https://img.shields.io/github/stars/AnujRaghuwanshi/DSA-Patterns?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/AnujRaghuwanshi/DSA-Patterns?style=social)
@@ -31,6 +31,7 @@ Instead of solving problems randomly, this repo focuses on recognizing patterns,
 ---
 
 ## 📂 Folder Structure
+```
 DSA-Patterns/
 │── Arrays/
 │── Sliding Window/
@@ -41,7 +42,7 @@ DSA-Patterns/
 │── Dynamic Programming/
 │── Graphs/
 │── Trees/
-
+```
 
 ---
 
