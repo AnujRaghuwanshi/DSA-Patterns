@@ -48,7 +48,7 @@ DSA-Patterns/
 
 ## ⚙️ Tech Stack
 
-- 💻 Languages: C++ 
+- 💻 Language: C++ 
 - 🧰 Platform: LeetCode  
 - 🧠 Focus: Problem Solving & Optimization  
 
