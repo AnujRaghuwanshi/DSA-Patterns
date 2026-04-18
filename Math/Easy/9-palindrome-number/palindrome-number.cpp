@@ -1,6 +1,7 @@
 class Solution {
 public:
     bool isPalindrome(int x) {
+        if(x < 0) return 0;
         string str = to_string(x);
         int  l = 0;
         int r = str.size()-1;
