@@ -25,6 +25,7 @@ public:
                 i++;
             }
         }
+        //retrun furthest houses distance
         return dist;
     }
 };
