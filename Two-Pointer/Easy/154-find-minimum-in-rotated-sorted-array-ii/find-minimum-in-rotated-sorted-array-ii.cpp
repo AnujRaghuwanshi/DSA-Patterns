@@ -2,7 +2,6 @@ class Solution {
 public:
     int findMin(vector<int>& nums) {
         int n = nums.size();
-        if(n == 1 || (nums[0] <= nums[n-1])) nums[0];
         int st = 0;
         int end = n-1;
         int ans = INT_MAX;
